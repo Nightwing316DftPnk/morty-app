@@ -1,0 +1,1385 @@
+{
+  "users": [
+    {
+      "username": "BernardoFH",
+      "email": "bernardofh16@gmail.com",
+      "gender": "male",
+      "review": 24,
+      "notificaiton": true,
+      "id": 1
+    }
+  ],
+  "episodes": [
+    {
+      "episode": "S01E01",
+      "name": "Piloto",
+      "air_date": "2013-12-02T06:00:00.000Z",
+      "id": 1
+    },
+    {
+      "air_date": "December 9, 2013",
+      "episode": "S01E02",
+      "name": "Lawnmower Dog",
+      "id": 2
+    },
+    {
+      "air_date": "December 16, 2013",
+      "episode": "S01E03",
+      "name": "Anatomy Park",
+      "id": 3
+    },
+    {
+      "air_date": "January 13, 2014",
+      "episode": "S01E04",
+      "name": "M. Night Shaym-Aliens!",
+      "id": 4
+    },
+    {
+      "air_date": "January 20, 2014",
+      "episode": "S01E05",
+      "name": "Meeseeks and Destroy",
+      "id": 5
+    },
+    {
+      "air_date": "January 27, 2014",
+      "episode": "S01E06",
+      "name": "Rick Potion #9",
+      "id": 6
+    },
+    {
+      "air_date": "March 10, 2014",
+      "episode": "S01E07",
+      "name": "Raising Gazorpazorp",
+      "id": 7
+    },
+    {
+      "air_date": "March 17, 2014",
+      "episode": "S01E08",
+      "name": "Rixty Minutes",
+      "id": 8
+    },
+    {
+      "air_date": "March 24, 2014",
+      "episode": "S01E09",
+      "name": "Something Ricked This Way Comes",
+      "id": 9
+    },
+    {
+      "air_date": "April 7, 2014",
+      "episode": "S01E10",
+      "name": "Close Rick-counters of the Rick Kind",
+      "id": 10
+    },
+    {
+      "air_date": "April 14, 2014",
+      "episode": "S01E11",
+      "name": "Ricksy Business",
+      "id": 11
+    },
+    {
+      "air_date": "July 26, 2015",
+      "episode": "S02E01",
+      "name": "A Rickle in Time",
+      "id": 12
+    },
+    {
+      "air_date": "September 13, 2015",
+      "episode": "S02E07",
+      "name": "Big Trouble in Little Sanchez",
+      "id": 13
+    },
+    {
+      "air_date": "September 20, 2015",
+      "episode": "S02E08",
+      "name": "Interdimensional Cable 2: Tempting Fate",
+      "id": 14
+    },
+    {
+      "air_date": "September 27, 2015",
+      "episode": "S02E09",
+      "name": "Look Who's Purging Now",
+      "id": 15
+    },
+    {
+      "air_date": "October 4, 2015",
+      "episode": "S02E10",
+      "name": "The Wedding Squanchers",
+      "id": 16
+    },
+    {
+      "air_date": "April 1, 2017",
+      "episode": "S03E01",
+      "name": "The Rickshank Rickdemption",
+      "id": 17
+    },
+    {
+      "air_date": "July 30, 2017",
+      "episode": "S03E02",
+      "name": "Rickmancing the Stone",
+      "id": 18
+    },
+    {
+      "air_date": "August 6, 2017",
+      "episode": "S03E03",
+      "name": "Pickle Rick",
+      "id": 19
+    },
+    {
+      "air_date": "August 13, 2017",
+      "episode": "S03E04",
+      "name": "Vindicators 3: The Return of Worldender",
+      "id": 20
+    },
+    {
+      "air_date": "August 20, 2017",
+      "episode": "S03E05",
+      "name": "The Whirly Dirly Conspiracy",
+      "id": 21
+    },
+    {
+      "air_date": "August 27, 2017",
+      "episode": "S03E06",
+      "name": "Rest and Ricklaxation",
+      "id": 22
+    },
+    {
+      "air_date": "September 10, 2017",
+      "episode": "S03E07",
+      "name": "The Ricklantis Mixup",
+      "id": 23
+    },
+    {
+      "air_date": "September 17, 2017",
+      "episode": "S03E08",
+      "name": "Morty's Mind Blowers",
+      "id": 24
+    },
+    {
+      "air_date": "September 24, 2017",
+      "episode": "S03E09",
+      "name": "The ABC's of Beth",
+      "id": 25
+    },
+    {
+      "air_date": "October 1, 2017",
+      "episode": "S03E10",
+      "name": "The Rickchurian Mortydate",
+      "id": 26
+    },
+    {
+      "air_date": "November 10, 2019",
+      "episode": "S04E01",
+      "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+      "id": 27
+    },
+    {
+      "air_date": "November 17, 2019",
+      "episode": "S04E02",
+      "name": "The Old Man and the Seat",
+      "id": 28
+    },
+    {
+      "air_date": "November 24, 2019",
+      "episode": "S04E03",
+      "name": "One Crew Over the Crewcoo's Morty",
+      "id": 29
+    },
+    {
+      "air_date": "December 8, 2019",
+      "episode": "S04E04",
+      "name": "Claw and Hoarder: Special Ricktim's Morty",
+      "id": 30
+    },
+    {
+      "air_date": "December 15, 2019",
+      "episode": "S04E05",
+      "name": "Rattlestar Ricklactica",
+      "id": 31
+    },
+    {
+      "air_date": "May 3, 2020",
+      "episode": "S04E06",
+      "name": "Never Ricking Morty",
+      "id": 32
+    },
+    {
+      "air_date": "May 10, 2020",
+      "episode": "S04E07",
+      "name": "Promortyus",
+      "id": 33
+    },
+    {
+      "air_date": "May 17, 2020",
+      "episode": "S04E08",
+      "name": "The Vat of Acid Episode",
+      "id": 34
+    },
+    {
+      "air_date": "May 10, 2020",
+      "episode": "S04E07",
+      "name": "Promortyus",
+      "id": 35
+    },
+    {
+      "air_date": "May 17, 2020",
+      "episode": "S04E08",
+      "name": "The Vat of Acid Episode",
+      "id": 36
+    },
+    {
+      "air_date": "May 3, 2020",
+      "episode": "S04E06",
+      "name": "Never Ricking Morty",
+      "id": 37
+    },
+    {
+      "air_date": "May 31, 2020",
+      "episode": "S04E10",
+      "name": "Star Mort: Rickturn of the Jerri",
+      "id": 38
+    },
+    {
+      "air_date": "December 15, 2019",
+      "episode": "S04E05",
+      "name": "Rattlestar Ricklactica",
+      "id": 39
+    },
+    {
+      "air_date": "May 24, 2020",
+      "episode": "S04E09",
+      "name": "Childrick of Mort",
+      "id": 40
+    }
+  ],
+  "characters": [
+    {
+      "name": "Rick Sanchez",
+      "gender": "Male",
+      "status": "Dead",
+      "species": "Human",
+      "id": 1
+    },
+    {
+      "name": "Morty Smith",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Male",
+      "id": 2
+    },
+    {
+      "name": "Summer Smith",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Female",
+      "id": 3
+    },
+    {
+      "name": "Beth Smith",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Female",
+      "id": 4
+    },
+    {
+      "name": "Jerry Smith",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Male",
+      "id": 5
+    },
+    {
+      "name": "Abadango Cluster Princess",
+      "status": "Alive",
+      "species": "Alien",
+      "gender": "Female",
+      "id": 6
+    },
+    {
+      "name": "Abradolf Lincler",
+      "status": "unknown",
+      "species": "Human",
+      "gender": "Male",
+      "id": 7
+    },
+    {
+      "name": "Adjudicator Rick",
+      "status": "Dead",
+      "species": "Human",
+      "gender": "Male",
+      "id": 8
+    },
+    {
+      "name": "Agency Director",
+      "status": "Dead",
+      "species": "Human",
+      "gender": "Male",
+      "id": 9
+    },
+    {
+      "name": "Alan Rails",
+      "status": "Dead",
+      "species": "Human",
+      "gender": "Male",
+      "id": 10
+    },
+    {
+      "name": "Albert Einstein",
+      "status": "Dead",
+      "species": "Human",
+      "gender": "Male",
+      "id": 11
+    },
+    {
+      "name": "Alexander",
+      "status": "Dead",
+      "species": "Human",
+      "gender": "Male",
+      "id": 12
+    },
+    {
+      "name": "Alien Morty",
+      "status": "unknown",
+      "species": "Alien",
+      "gender": "Male",
+      "id": 13
+    },
+    {
+      "name": "Alien Rick",
+      "status": "unknown",
+      "species": "Alien",
+      "gender": "Male",
+      "id": 14
+    },
+    {
+      "name": "Alien Googah",
+      "status": "unknown",
+      "species": "Alien",
+      "gender": "unknown",
+      "id": 15
+    },
+    {
+      "name": "Amish Cyborg",
+      "status": "Dead",
+      "species": "Alien",
+      "gender": "Male",
+      "id": 16
+    },
+    {
+      "name": "Annie",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Female",
+      "id": 17
+    },
+    {
+      "name": "Antenna Morty",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Male",
+      "id": 18
+    },
+    {
+      "name": "Antenna Rick",
+      "status": "unknown",
+      "species": "Human",
+      "gender": "Male",
+      "id": 19
+    },
+    {
+      "name": "Arcade Alien",
+      "status": "unknown",
+      "species": "Alien",
+      "gender": "Male",
+      "id": 20
+    },
+    {
+      "name": "Aqua Rick",
+      "status": "unknown",
+      "species": "Humanoid",
+      "gender": "Male",
+      "id": 21
+    },
+    {
+      "name": "Armagheadon",
+      "status": "Alive",
+      "species": "Alien",
+      "gender": "Male",
+      "id": 22
+    },
+    {
+      "name": "Armothy",
+      "status": "Dead",
+      "species": "unknown",
+      "gender": "Male",
+      "id": 23
+    },
+    {
+      "name": "Arthricia",
+      "status": "Alive",
+      "species": "Alien",
+      "gender": "Female",
+      "id": 24
+    },
+    {
+      "name": "Artist Morty",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Male",
+      "id": 25
+    },
+    {
+      "name": "Attila Starwar",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Male",
+      "id": 26
+    },
+    {
+      "name": "Baby Legs",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Male",
+      "id": 27
+    },
+    {
+      "name": "Baby Poopybutthole",
+      "status": "Alive",
+      "species": "Poopybutthole",
+      "gender": "Male",
+      "id": 28
+    },
+    {
+      "name": "Baby Wizard",
+      "status": "Dead",
+      "species": "Alien",
+      "gender": "Male",
+      "id": 29
+    },
+    {
+      "name": "Bearded Lady",
+      "status": "Dead",
+      "species": "Alien",
+      "gender": "Female",
+      "id": 30
+    },
+    {
+      "name": "Beebo",
+      "status": "Dead",
+      "species": "Alien",
+      "gender": "Male",
+      "id": 31
+    },
+    {
+      "name": "Benjamin",
+      "status": "Alive",
+      "species": "Poopybutthole",
+      "gender": "Male",
+      "id": 32
+    },
+    {
+      "name": "Bepisian",
+      "status": "Alive",
+      "species": "Alien",
+      "gender": "unknown",
+      "id": 33
+    },
+    {
+      "name": "Beta-Seven",
+      "status": "Alive",
+      "species": "Alien",
+      "gender": "unknown",
+      "id": 34
+    },
+    {
+      "name": "Beth Sanchez",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Female",
+      "id": 35
+    },
+    {
+      "name": "Big Morty",
+      "status": "Dead",
+      "species": "Human",
+      "gender": "Male",
+      "id": 36
+    },
+    {
+      "name": "Body Guard Morty",
+      "status": "Dead",
+      "species": "Human",
+      "gender": "Male",
+      "id": 37
+    },
+    {
+      "name": "Bill",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Male",
+      "id": 38
+    },
+    {
+      "name": "Bill",
+      "status": "unknown",
+      "species": "Animal",
+      "gender": "Male",
+      "id": 39
+    },
+    {
+      "name": "Birdperson",
+      "status": "Dead",
+      "species": "Alien",
+      "gender": "Male",
+      "id": 40
+    },
+    {
+      "name": "Black Rick",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Male",
+      "id": 41
+    },
+    {
+      "name": "Blamph",
+      "status": "Alive",
+      "species": "Alien",
+      "gender": "unknown",
+      "id": 42
+    },
+    {
+      "name": "Blim Blam",
+      "status": "Alive",
+      "species": "Alien",
+      "gender": "Male",
+      "id": 43
+    },
+    {
+      "name": "Blue Diplomat",
+      "status": "Alive",
+      "species": "Alien",
+      "gender": "Male",
+      "id": 44
+    },
+    {
+      "name": "Bobby Moynihan",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Male",
+      "id": 45
+    },
+    {
+      "name": "Boobloosian",
+      "status": "Dead",
+      "species": "Alien",
+      "gender": "unknown",
+      "id": 46
+    },
+    {
+      "name": "Blue Footprint Guy",
+      "status": "Dead",
+      "species": "Human",
+      "gender": "Male",
+      "id": 47
+    },
+    {
+      "name": "Blue Shirt Morty",
+      "status": "unknown",
+      "species": "Human",
+      "gender": "Male",
+      "id": 48
+    },
+    {
+      "name": "Bootleg Portal Chemist Rick",
+      "status": "Dead",
+      "species": "Human",
+      "gender": "Male",
+      "id": 49
+    },
+    {
+      "name": "Borpocian",
+      "status": "Alive",
+      "species": "Alien",
+      "gender": "Male",
+      "id": 50
+    },
+    {
+      "name": "Brad",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Male",
+      "id": 51
+    },
+    {
+      "name": "Brad Anderson",
+      "status": "Dead",
+      "species": "Human",
+      "gender": "Male",
+      "id": 52
+    },
+    {
+      "name": "Calypso",
+      "status": "Dead",
+      "species": "Human",
+      "gender": "Female",
+      "id": 53
+    },
+    {
+      "name": "Ants in my Eyes Johnson",
+      "status": "unknown",
+      "species": "Human",
+      "gender": "Male",
+      "id": 54
+    },
+    {
+      "name": "Annie",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Female",
+      "id": 55
+    },
+    {
+      "name": "Antenna Morty",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Male",
+      "id": 56
+    },
+    {
+      "name": "Antenna Rick",
+      "status": "unknown",
+      "species": "Human",
+      "gender": "Male",
+      "id": 57
+    },
+    {
+      "name": "Aqua Morty",
+      "status": "unknown",
+      "species": "Humanoid",
+      "gender": "Male",
+      "id": 58
+    },
+    {
+      "name": "Amish Cyborg",
+      "status": "Dead",
+      "species": "Alien",
+      "gender": "Male",
+      "id": 59
+    }
+  ],
+  "places": [
+    {
+      "name": "Earth (C-137)",
+      "type": "Planet",
+      "dimension": "Dimension C-137",
+      "id": 1
+    },
+    {
+      "name": "Earth (Replacement Dimension)",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "id": 2
+    },
+    {
+      "name": "Abadango",
+      "type": "Cluster",
+      "dimension": "unknown",
+      "id": 3
+    },
+    {
+      "name": "Citadel of Ricks",
+      "type": "Space station",
+      "dimension": "unknown",
+      "id": 4
+    },
+    {
+      "name": "Worldender's lair",
+      "type": "Planet",
+      "dimension": "unknown",
+      "id": 5
+    },
+    {
+      "name": "Anatomy Park",
+      "type": "Microverse",
+      "dimension": "Dimension C-137",
+      "id": 6
+    },
+    {
+      "name": "Interdimensional Cable",
+      "type": "TV",
+      "dimension": "unknown",
+      "id": 7
+    },
+    {
+      "name": "Immortality Field Resort",
+      "type": "Resort",
+      "dimension": "unknown",
+      "id": 8
+    },
+    {
+      "name": "Bepis 9",
+      "type": "Planet",
+      "dimension": "unknown",
+      "id": 9
+    },
+    {
+      "name": "Cronenberg Earth",
+      "type": "Planet",
+      "dimension": "Cronenberg Dimension",
+      "id": 10
+    },
+    {
+      "name": "Purge Planet",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "id": 11
+    },
+    {
+      "name": "Venzenulon 7",
+      "type": "Planet",
+      "dimension": "unknown",
+      "id": 12
+    },
+    {
+      "name": "Nuptia 4",
+      "type": "Planet",
+      "dimension": "unknown",
+      "id": 13
+    },
+    {
+      "name": "Giant's Town",
+      "type": "Fantasy town",
+      "dimension": "Fantasy Dimension",
+      "id": 14
+    },
+    {
+      "name": "Bird World",
+      "type": "Planet",
+      "dimension": "unknown",
+      "id": 15
+    },
+    {
+      "name": "St. Gloopy Noops Hospital",
+      "type": "Space station",
+      "dimension": "unknown",
+      "id": 16
+    },
+    {
+      "name": "Earth (5-126)",
+      "type": "Planet",
+      "dimension": "Dimension 5-126",
+      "id": 17
+    },
+    {
+      "name": "Mr. Goldenfold's dream",
+      "type": "Dream",
+      "dimension": "Dimension C-137",
+      "id": 18
+    },
+    {
+      "name": "Gromflom Prime",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "id": 19
+    },
+    {
+      "name": "Citadel of Ricks",
+      "type": "Space station",
+      "dimension": "unknown",
+      "id": 20
+    },
+    {
+      "name": "Post-Apocalyptic Earth",
+      "type": "Planet",
+      "dimension": "Post-Apocalyptic Dimension",
+      "id": 21
+    },
+    {
+      "name": "Testicle Monster Dimension",
+      "type": "Dimension",
+      "dimension": "Testicle Monster Dimension",
+      "id": 22
+    },
+    {
+      "name": "Signus 5 Expanse",
+      "type": "unknown",
+      "dimension": "Cromulon Dimension",
+      "id": 23
+    },
+    {
+      "name": "Rick's Battery Microverse",
+      "type": "Microverse",
+      "dimension": "Replacement Dimension",
+      "id": 24
+    },
+    {
+      "name": "The Menagerie",
+      "type": "Menagerie",
+      "dimension": "unknown",
+      "id": 25
+    },
+    {
+      "name": "Earth (K-83)",
+      "type": "Planet",
+      "dimension": "Dimension K-83",
+      "id": 26
+    },
+    {
+      "name": "Dorian 5",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "id": 27
+    },
+    {
+      "name": "Earth (Unknown dimension)",
+      "type": "Planet",
+      "dimension": "unknown",
+      "id": 28
+    },
+    {
+      "name": "Roy: A Life Well Lived",
+      "type": "Game",
+      "dimension": "Replacement Dimension",
+      "id": 29
+    },
+    {
+      "name": "Earth (J19ζ7)",
+      "type": "Planet",
+      "dimension": "Dimension J19ζ7",
+      "id": 30
+    },
+    {
+      "name": "Eric Stoltz Mask Earth",
+      "type": "Planet",
+      "dimension": "Eric Stoltz Mask Dimension",
+      "id": 31
+    },
+    {
+      "name": "Earth (Evil Rick's Target Dimension)",
+      "type": "Planet",
+      "dimension": "Evil Rick's Target Dimension",
+      "id": 32
+    },
+    {
+      "name": "Planet Squanch",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "id": 33
+    },
+    {
+      "name": "Glaagablaaga",
+      "type": "Planet",
+      "dimension": "unknown",
+      "id": 34
+    },
+    {
+      "name": "Resort Planet",
+      "type": "Planet",
+      "dimension": "unknown",
+      "id": 35
+    },
+    {
+      "name": "Interdimensional Customs",
+      "type": "Customs",
+      "dimension": "unknown",
+      "id": 36
+    },
+    {
+      "name": "Galactic Federation Prison",
+      "type": "Space station",
+      "dimension": "unknown",
+      "id": 37
+    },
+    {
+      "name": "Hamster in Butt World",
+      "type": "Planet",
+      "dimension": "unknown",
+      "id": 38
+    },
+    {
+      "name": "Earth (Giant Telepathic Spiders Dimension)",
+      "type": "Planet",
+      "dimension": "Giant Telepathic Spiders Dimension",
+      "id": 39
+    },
+    {
+      "name": "Alphabetrium",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "id": 40
+    },
+    {
+      "name": "Krootabulon",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "id": 41
+    },
+    {
+      "name": "Jerryboree",
+      "type": "Daycare",
+      "dimension": "unknown",
+      "id": 42
+    },
+    {
+      "name": "Zeep Xanflorp's Miniverse",
+      "type": "Miniverse",
+      "dimension": "Replacement Dimension",
+      "id": 43
+    },
+    {
+      "name": "Zigerion's Base",
+      "type": "Space station",
+      "dimension": "Dimension C-137",
+      "id": 44
+    },
+    {
+      "name": "Fantasy World",
+      "type": "Planet",
+      "dimension": "Fantasy Dimension",
+      "id": 45
+    },
+    {
+      "name": "Pluto",
+      "type": "Dwarf planet (Celestial Dwarf)",
+      "dimension": "Replacement Dimension",
+      "id": 46
+    },
+    {
+      "name": "Kyle's Teenyverse",
+      "type": "Teenyverse",
+      "dimension": "Replacement Dimension",
+      "id": 47
+    },
+    {
+      "name": "Larva Alien's Planet",
+      "type": "Planet",
+      "dimension": "Unknown dimension",
+      "id": 48
+    },
+    {
+      "name": "Earth (K-22)",
+      "type": "Planet",
+      "dimension": "Dimension K-22",
+      "id": 49
+    },
+    {
+      "name": "Mr. Meeseeks Box",
+      "type": "Box",
+      "dimension": "unknown",
+      "id": 50
+    },
+    {
+      "name": "Vindicator's Base",
+      "type": "Spacecraft",
+      "dimension": "unknown",
+      "id": 51
+    },
+    {
+      "name": "Pawn Shop Planet",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "id": 52
+    },
+    {
+      "name": "Mega Gargantuan Kingdom",
+      "type": "Microverse",
+      "dimension": "Replacement Dimension",
+      "id": 53
+    },
+    {
+      "name": "Gear World",
+      "type": "Planet",
+      "dimension": "unknown",
+      "id": 54
+    },
+    {
+      "name": "Earth (D-99)",
+      "type": "Planet",
+      "dimension": "Dimension D-99",
+      "id": 55
+    },
+    {
+      "name": "Earth (D716)",
+      "type": "Planet",
+      "dimension": "Dimension D716",
+      "id": 56
+    },
+    {
+      "name": "Blips and Chitz",
+      "type": "Arcade",
+      "dimension": "Replacement Dimension",
+      "id": 57
+    },
+    {
+      "name": "Girvonesk",
+      "type": "unknown",
+      "dimension": "unknown",
+      "id": 58
+    },
+    {
+      "name": "Earth (C-35)",
+      "type": "Planet",
+      "dimension": "Dimension C-35",
+      "id": 59
+    },
+    {
+      "name": "Snuffles' Dream",
+      "type": "Dream",
+      "dimension": "Dimension C-137",
+      "id": 60
+    },
+    {
+      "name": "Earth (Pizza Dimension)",
+      "type": "Planet",
+      "dimension": "Pizza Dimension",
+      "id": 61
+    },
+    {
+      "name": "Earth (Phone Dimension)",
+      "type": "Planet",
+      "dimension": "Phone Dimension",
+      "id": 62
+    },
+    {
+      "name": "Greasy Grandma World",
+      "type": "Planet",
+      "dimension": "unknown",
+      "id": 63
+    },
+    {
+      "name": "Earth (Chair Dimension)",
+      "type": "Planet",
+      "dimension": "Chair Dimension",
+      "id": 64
+    },
+    {
+      "name": "Árboles Mentirosos",
+      "type": "Planet",
+      "dimension": "unknown",
+      "id": 65
+    },
+    {
+      "name": "Alien Day Spa",
+      "type": "Spa",
+      "dimension": "unknown",
+      "id": 66
+    },
+    {
+      "name": "Earth (Fascist Dimension)",
+      "type": "Planet",
+      "dimension": "Fascist Dimension",
+      "id": 67
+    },
+    {
+      "name": "Snake Planet",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "id": 68
+    },
+    {
+      "name": "Forbodulon Prime",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "id": 69
+    },
+    {
+      "name": "Earth (Fascist Shrimp Dimension)",
+      "type": "Planet",
+      "dimension": "Fascist Shrimp Dimension",
+      "id": 70
+    },
+    {
+      "name": "Testicle Monster Dimension",
+      "type": "Dimension",
+      "dimension": "Testicle Monster Dimension",
+      "id": 71
+    },
+    {
+      "name": "Signus 5 Expanse",
+      "type": "unknown",
+      "dimension": "Cromulon Dimension",
+      "id": 72
+    },
+    {
+      "name": "Citadel of Ricks",
+      "type": "Space station",
+      "dimension": "unknown",
+      "id": 73
+    },
+    {
+      "name": "Post-Apocalyptic Earth",
+      "type": "Planet",
+      "dimension": "Post-Apocalyptic Dimension",
+      "id": 74
+    },
+    {
+      "name": "Earth (C-500A)",
+      "type": "Planet",
+      "dimension": "Dimension C-500A",
+      "id": 75
+    },
+    {
+      "name": "Mount Space Everest",
+      "type": "Mount",
+      "dimension": "Replacement Dimension",
+      "id": 76
+    },
+    {
+      "name": "Globaflyn",
+      "type": "Liquid",
+      "dimension": "Replacement Dimension",
+      "id": 77
+    },
+    {
+      "name": "Gorgon Quadrant",
+      "type": "Quadrant",
+      "dimension": "Replacement Dimension",
+      "id": 78
+    },
+    {
+      "name": "Midland Quasar",
+      "type": "Quasar",
+      "dimension": "Replacement Dimension",
+      "id": 79
+    },
+    {
+      "name": "Heist-Con",
+      "type": "Convention",
+      "dimension": "Replacement Dimension",
+      "id": 80
+    },
+    {
+      "name": "Heistotron Base",
+      "type": "Space station",
+      "dimension": "Replacement Dimension",
+      "id": 81
+    },
+    {
+      "name": "Mount Olympus",
+      "type": "Mount",
+      "dimension": "Replacement Dimension",
+      "id": 82
+    },
+    {
+      "name": "Plitzville Montana",
+      "type": "Woods",
+      "dimension": "Replacement Dimension",
+      "id": 83
+    },
+    {
+      "name": "Earth (Tusk Dimension)",
+      "type": "Planet",
+      "dimension": "Tusk Dimension",
+      "id": 84
+    },
+    {
+      "name": "Gramuflack",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "id": 85
+    },
+    {
+      "name": "Draygon",
+      "type": "Planet",
+      "dimension": "Magic Dimension",
+      "id": 86
+    },
+    {
+      "name": "New Improved Galactic Federation Quarters",
+      "type": "Space station",
+      "dimension": "Replacement Dimension",
+      "id": 87
+    },
+    {
+      "name": "Non-Diegetic Alternative Reality",
+      "type": "Non-Diegetic Alternative Reality",
+      "dimension": "Replacement Dimension",
+      "id": 88
+    },
+    {
+      "name": "Tickets Please Guy Nightmare",
+      "type": "Nightmare",
+      "dimension": "Replacement Dimension",
+      "id": 89
+    },
+    {
+      "name": "Morty’s Story",
+      "type": "Diegesis",
+      "dimension": "Replacement Dimension",
+      "id": 90
+    },
+    {
+      "name": "Ricks’s Story",
+      "type": "Diegesis",
+      "dimension": "Replacement Dimension",
+      "id": 91
+    },
+    {
+      "name": "Galactic Federation Prison",
+      "type": "Space station",
+      "dimension": "unknown",
+      "id": 92
+    },
+    {
+      "name": "Earth (K-83)",
+      "type": "Planet",
+      "dimension": "Dimension K-83",
+      "id": 93
+    },
+    {
+      "name": "Interdimensional Customs",
+      "type": "Customs",
+      "dimension": "unknown",
+      "id": 94
+    },
+    {
+      "name": "Gazorpazorp",
+      "type": "Planet",
+      "dimension": "unknown",
+      "id": 95
+    },
+    {
+      "name": "Alphabetrium",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "id": 96
+    },
+    {
+      "name": "Earth (D716-C)",
+      "type": "Planet",
+      "dimension": "Dimension D716-C",
+      "id": 97
+    },
+    {
+      "name": "Earth (J-22)",
+      "type": "Planet",
+      "dimension": "Dimension J-22",
+      "id": 98
+    },
+    {
+      "name": "Froopyland",
+      "type": "Artificially generated world",
+      "dimension": "Replacement Dimension",
+      "id": 99
+    },
+    {
+      "name": "Detoxifier",
+      "type": "Machine",
+      "dimension": "Replacement Dimension",
+      "id": 100
+    },
+    {
+      "name": "Earth (D716-B)",
+      "type": "Planet",
+      "dimension": "Dimension D716-B",
+      "id": 101
+    },
+    {
+      "name": "Earth (Pizza Dimension)",
+      "type": "Planet",
+      "dimension": "Pizza Dimension",
+      "id": 102
+    },
+    {
+      "name": "Earth (Phone Dimension)",
+      "type": "Planet",
+      "dimension": "Phone Dimension",
+      "id": 103
+    },
+    {
+      "name": "Earth (Fascist Teddy Bear Dimension)",
+      "type": "Planet",
+      "dimension": "Fascist Teddy Bear Dimension",
+      "id": 104
+    },
+    {
+      "name": "Earth (Wasp Dimension)",
+      "type": "Planet",
+      "dimension": "Wasp Dimension",
+      "id": 105
+    },
+    {
+      "name": "Story Train",
+      "type": "Diegesis",
+      "dimension": "Replacement Dimension",
+      "id": 107
+    },
+    {
+      "name": "Gramuflack",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "id": 108
+    },
+    {
+      "name": "Galactic Federation Prison",
+      "type": "Space station",
+      "dimension": "unknown",
+      "id": 109
+    },
+    {
+      "name": "Glorzo Asteroid",
+      "type": "Asteroid",
+      "dimension": "Replacement Dimension",
+      "id": 110
+    },
+    {
+      "name": "Merged Universe",
+      "type": "Dimension",
+      "dimension": "Merged Dimension",
+      "id": 111
+    },
+    {
+      "name": "Alien Acid Plant",
+      "type": "Acid Plant",
+      "dimension": "Replacement Dimension",
+      "id": 112
+    },
+    {
+      "name": "Gaia",
+      "type": "Planet",
+      "dimension": "Replacement Dimension",
+      "id": 113
+    },
+    {
+      "name": "Defiance's Ship",
+      "type": "Spacecraft",
+      "dimension": "Replacement Dimension",
+      "id": 114
+    },
+    {
+      "name": "Defiance's Base",
+      "type": "Base",
+      "dimension": "Replacement Dimension",
+      "id": 115
+    },
+    {
+      "name": "Earth (Phone Dimension)",
+      "type": "Planet",
+      "dimension": "Phone Dimension",
+      "id": 116
+    },
+    {
+      "name": "Near-Duplicate Reality",
+      "type": "Reality",
+      "dimension": "Unknown dimension",
+      "id": 119
+    },
+    {
+      "name": "Merged Universe",
+      "type": "Dimension",
+      "dimension": "Merged Dimension",
+      "id": 120
+    },
+    {
+      "name": "NX-5 Planet Remover",
+      "type": "Death Star",
+      "dimension": "Replacement Dimension",
+      "id": 121
+    },
+    {
+      "name": "Alien Acid Plant",
+      "type": "Acid Plant",
+      "dimension": "Replacement Dimension",
+      "id": 122
+    }
+  ]
+}
